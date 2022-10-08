@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Front End Development
 - 🌱 I’m currently learning ...Vite.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...https://easetemplate.com/
 
 <!---
 easetemplates/easetemplates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
